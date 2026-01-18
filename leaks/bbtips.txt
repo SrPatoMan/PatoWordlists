@@ -773,6 +773,7 @@ printenv/
 processed/
 processed/config.ini
 processed/syslog-tcp-forward.conf
+templates/processed/syslog-tcp-forward.conf
 process.env.NEXT_PUBLIC_*
 _profiler
 _profiler/empty/search/results?limit=10
