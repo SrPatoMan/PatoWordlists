@@ -1,0 +1,3 @@
+wp-content/backups-dup-lite/
+wp-content/backups-dup-pro/
+wp-content/uploads/wp-import-export-lite/
