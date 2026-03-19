@@ -430,6 +430,7 @@ internal
 irc-macadmin
 irj/portal
 jenkins/
+jenkins/signup
 Jenkinsfile
 js/access_tokens.js
 js/admin.js
@@ -774,6 +775,7 @@ processed/
 processed/config.ini
 processed/syslog-tcp-forward.conf
 templates/processed/syslog-tcp-forward.conf
+templates/processed/config.ini
 process.env.NEXT_PUBLIC_*
 _profiler
 _profiler/empty/search/results?limit=10
@@ -905,6 +907,7 @@ storage/users.csv
 sub-login/
 Super-Admin/  
 support/
+support/signup
 support_login/  
 .svn
 .svn/entries
@@ -1037,7 +1040,8 @@ whm/
 wizmysqladmin/  
 wordpress.txt
 wp/
-wp-admin/  
+wp-admin/
+wp-register  
 wp-config-backup.txt
 wp-config.inc
 wp-config.old
@@ -1063,7 +1067,8 @@ _wpeprivate/config.json
 wp/idx_config/easywayp-WordPress.txt
 wp/idx_config/WordPress.txt
 /wp-json/wp/v2/users/
-wp-login/  
+wp-login/
+wp-login.php?action=register  
 www.zip
 xlogin/  
 xmlrpc.php
@@ -1179,3 +1184,18 @@ static/
 media/
 static/sitemap.xml
 site_info
+api/v3.2/users/export/all
+CLAUDE.md
+GEMINI.md
+.copilot-instructions.md
+.claude
+.claude/settings.json
+claude.json
+.claude.json
+mcp.json
+.mcp.json
+.cursorrules
+.continue/
+.continue/config.json
+secure/Signup!default.jspa
+signup
