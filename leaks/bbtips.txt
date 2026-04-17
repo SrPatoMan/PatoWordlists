@@ -1199,3 +1199,4 @@ mcp.json
 .continue/config.json
 secure/Signup!default.jspa
 signup
+api/application.wadl
