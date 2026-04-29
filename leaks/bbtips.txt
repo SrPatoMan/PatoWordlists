@@ -1200,3 +1200,11 @@ mcp.json
 secure/Signup!default.jspa
 signup
 api/application.wadl
+frontend/
+backend/
+backend/backups
+backend/core
+core
+api.js
+eslint.config.js
+vite.config.js
