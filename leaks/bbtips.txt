@@ -1190,6 +1190,7 @@ GEMINI.md
 .copilot-instructions.md
 .claude
 .claude/settings.json
+.claude/settings.local.json
 claude.json
 .claude.json
 mcp.json
