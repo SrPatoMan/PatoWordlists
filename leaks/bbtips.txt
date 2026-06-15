@@ -1187,6 +1187,12 @@ site_info
 api/v3.2/users/export/all
 CLAUDE.md
 GEMINI.md
+airules.md
+cursor.md
+cursorrules.md
+guidelines.md
+.github/copilot-instructions.md
+.instructions.md
 .copilot-instructions.md
 .claude
 .claude/settings.json
