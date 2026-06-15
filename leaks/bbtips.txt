@@ -1215,3 +1215,5 @@ core
 api.js
 eslint.config.js
 vite.config.js
+llms.txt
+llms-full.txt
