@@ -1217,3 +1217,4 @@ eslint.config.js
 vite.config.js
 llms.txt
 llms-full.txt
+logout
