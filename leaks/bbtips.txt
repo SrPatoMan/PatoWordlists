@@ -1230,3 +1230,5 @@ vite.config.js
 llms.txt
 llms-full.txt
 logout
+old.htaccess
+new.php
