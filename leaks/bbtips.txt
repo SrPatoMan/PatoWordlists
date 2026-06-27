@@ -1232,3 +1232,5 @@ llms-full.txt
 logout
 old.htaccess
 new.php
+error.jpg
+000000
