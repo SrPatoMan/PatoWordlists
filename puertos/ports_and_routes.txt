@@ -1,5 +1,6 @@
 3000
 3000/dashboards/home
+3000/dashboard/home
 3000/datasources
 3000/login
 8443
@@ -10,7 +11,17 @@
 8082
 8082/login.jsp
 8001
+8443/mics/mics.html
+8443/mifs/admin/vsp.html
+8443/mifs/c/login
+8443/mifs/api/v1/release_version
+8443/mifs/api/v2/release_version
+8443/mifs/api/v1/health
+8443/admin
+8443/login.html
 8978
 9090
+9090/admin
+9090/login.html
 9100/metrics
 19071
