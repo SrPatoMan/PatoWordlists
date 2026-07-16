@@ -1232,7 +1232,10 @@ llms-full.txt
 logout
 old.htaccess
 new.php
+images/error.jpg
+images/error.png
 error.jpg
+error.png
 000000
 cms
 cms/admin
