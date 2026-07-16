@@ -1234,3 +1234,5 @@ old.htaccess
 new.php
 error.jpg
 000000
+cms
+cms/admin
