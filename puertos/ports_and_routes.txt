@@ -16,6 +16,7 @@
 8081
 8082
 8082/login.jsp
+8082/artifactory
 8001
 8443/mics/mics.html
 8443/mifs/admin/vsp.html
