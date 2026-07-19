@@ -1239,3 +1239,5 @@ error.png
 000000
 cms
 cms/admin
+umbraco
+umbraco/login
