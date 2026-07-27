@@ -1241,3 +1241,6 @@ cms
 cms/admin
 umbraco
 umbraco/login
+SPEC.md
+opencode.json
+opencode.jsonc
